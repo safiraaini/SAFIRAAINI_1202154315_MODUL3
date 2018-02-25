@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Safira_1202154315_MODUL3</string>
+    <string name="username">Username</string>
+    <string name="etpas">password</string>
+    <string name="btn_login">Login</string>
+
+    <string-array name="waterstitles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="waters_info">
+        <item>About Ades</item>
+        <item>About Amidis</item>
+        <item>About Aqua</item>
+        <item>About Cleo</item>
+        <item>About Club</item>
+        <item>About Equil</item>
+        <item>About Evian</item>
+        <item>About Leminerale</item>
+        <item>About Nestle</item>
+        <item>Ini adalah pristine</item>
+        <item>About Vit</item>
+    </string-array>
+
+    <array name="waters_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>

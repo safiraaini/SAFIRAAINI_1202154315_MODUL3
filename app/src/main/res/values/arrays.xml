@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="waters_info1">judul
+        <item>About Ades</item>
+        <item>About Amidis</item>
+        <item>About Aqua</item>
+        <item>About Cleo</item>
+        <item>About Club</item>
+        <item>About Equil</item>
+        <item>About Evian</item>
+        <item>About Leminerale</item>
+        <item>About Nestle</item>
+        <item>Ini adalah pristine</item>
+        <item>About Vit</item>
+    </string-array>
+
+</resources>
